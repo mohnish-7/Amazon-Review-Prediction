@@ -8,3 +8,5 @@ This program uses Machine Learning, in the form of classification, to predict wh
     * Follow the on-screen instructions to run the program.
     * If you don't have Jupyter Notebool or any Notebook IDE, run the "Amazon Review Prediction Using Machine Learning.py" file using your command prompt.
     * Feel free to test the software and report any bugs or errors or feedback via email: mohnish_official@icloud.com
+
+© Copyright 2021, Mohnish
