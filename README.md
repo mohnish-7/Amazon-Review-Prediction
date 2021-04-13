@@ -1,5 +1,9 @@
 # Amazon-Review-Prediction
-This program uses Machine Learning, in the form of classification, to predict whether an Amazon review, or any other review in general, is positive or negative. This ML model has an accuracy of  92.19858% .
+This project aims to classify an Amazon review, or any review in general, as a positive or a negative review. The software uses Natural Language Processing and a Machine Learning model to classify the review into positive or negative. To be precise, the ML model uses the Linear SVC ( Linear Support Vector Classification ) algorithm. The reviews are converted to tokens, using the Natural Language Processing toolkit, and are fit on the ML model. This model has an accuracy of 92.19858% .
+
+Feel free to send your feedbacks and suggestions to mohnish_official@icloud.com
+
+P.S. Even though this project can be made using Sentiment Analysis, using Linear SVC provides a better accuracy score.
 
 # Instructions to Use this Software
 
